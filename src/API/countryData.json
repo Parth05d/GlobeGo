@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "officialName": "Republic of India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1428627663,
+    "area": 3287263,
+    "currency": {
+      "name": "Indian Rupee",
+      "code": "INR",
+      "symbol": "₹"
+    },
+    "languages": ["Hindi", "English"],
+    "flag": "https://flagcdn.com/in.svg",
+    "timezone": "UTC+05:30",
+    "borders": ["Pakistan", "China", "Nepal", "Bhutan", "Bangladesh", "Myanmar"],
+    "facts": [
+      "India is the world's largest democracy.",
+      "Home to the Taj Mahal, one of the Seven Wonders of the World."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "officialName": "United States of America",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 339996563,
+    "area": 9833520,
+    "currency": {
+      "name": "United States Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "languages": ["English"],
+    "flag": "https://flagcdn.com/us.svg",
+    "timezone": "UTC−04:00 to UTC−12:00, UTC+10:00, UTC+12:00",
+    "borders": ["Canada", "Mexico"],
+    "facts": [
+      "The Statue of Liberty was a gift from France.",
+      "The U.S. has the world's largest economy."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "officialName": "State of Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 123294513,
+    "area": 377975,
+    "currency": {
+      "name": "Japanese Yen",
+      "code": "JPY",
+      "symbol": "¥"
+    },
+    "languages": ["Japanese"],
+    "flag": "https://flagcdn.com/jp.svg",
+    "timezone": "UTC+09:00",
+    "borders": [],
+    "facts": [
+      "Japan consists of over 6,800 islands.",
+      "Tokyo is the largest metropolitan area in the world."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Brazil",
+    "officialName": "Federative Republic of Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 214326223,
+    "area": 8515767,
+    "currency": {
+      "name": "Brazilian Real",
+      "code": "BRL",
+      "symbol": "R$"
+    },
+    "languages": ["Portuguese"],
+    "flag": "https://flagcdn.com/br.svg",
+    "timezone": "UTC−05:00 to UTC−02:00",
+    "borders": ["Argentina", "Bolivia", "Colombia", "Guyana", "Paraguay", "Peru", "Suriname", "Uruguay", "Venezuela", "French Guiana"],
+    "facts": [
+      "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world.",
+      "It is the largest coffee producer in the world."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "officialName": "Commonwealth of Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 26876445,
+    "area": 7692024,
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$"
+    },
+    "languages": ["English"],
+    "flag": "https://flagcdn.com/au.svg",
+    "timezone": "UTC+08:00 to UTC+11:00",
+    "borders": [],
+    "facts": [
+      "Australia is the only country that is also a continent.",
+      "The Great Barrier Reef is the world's largest coral reef system."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Canada",
+    "officialName": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 38929902,
+    "area": 9984670,
+    "currency": {
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "symbol": "C$"
+    },
+    "languages": ["English", "French"],
+    "flag": "https://flagcdn.com/ca.svg",
+    "timezone": "UTC−03:30 to UTC−08:00",
+    "borders": ["United States"],
+    "facts": [
+      "Canada has the longest coastline in the world.",
+      "Maple syrup is one of its iconic exports."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Germany",
+    "officialName": "Federal Republic of Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 84662548,
+    "area": 357022,
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "languages": ["German"],
+    "flag": "https://flagcdn.com/de.svg",
+    "timezone": "UTC+01:00",
+    "borders": ["Denmark", "Poland", "Czech Republic", "Austria", "Switzerland", "France", "Luxembourg", "Belgium", "Netherlands"],
+    "facts": [
+      "Germany is known for its engineering and automotive industries.",
+      "Oktoberfest is the world's largest beer festival."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "France",
+    "officialName": "French Republic",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 65584538,
+    "area": 551695,
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "languages": ["French"],
+    "flag": "https://flagcdn.com/fr.svg",
+    "timezone": "UTC+01:00",
+    "borders": ["Belgium", "Luxembourg", "Germany", "Switzerland", "Italy", "Monaco", "Andorra", "Spain"],
+    "facts": [
+      "France is the most visited country in the world.",
+      "The Eiffel Tower was initially criticized when it was built."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "United Kingdom",
+    "officialName": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 68325771,
+    "area": 243610,
+    "currency": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "languages": ["English"],
+    "flag": "https://flagcdn.com/gb.svg",
+    "timezone": "UTC+00:00",
+    "borders": ["Ireland"],
+    "facts": [
+      "The UK is made up of England, Scotland, Wales, and Northern Ireland.",
+      "The London Underground is the world's oldest underground railway."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "South Africa",
+    "officialName": "Republic of South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 60414495,
+    "area": 1219090,
+    "currency": {
+      "name": "South African Rand",
+      "code": "ZAR",
+      "symbol": "R"
+    },
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"],
+    "flag": "https://flagcdn.com/za.svg",
+    "timezone": "UTC+02:00",
+    "borders": ["Namibia", "Botswana", "Zimbabwe", "Mozambique", "Eswatini", "Lesotho"],
+    "facts": [
+      "South Africa has three capital cities.",
+      "It is known for its rich biodiversity and wildlife safaris."
+    ]
+  }
+]
