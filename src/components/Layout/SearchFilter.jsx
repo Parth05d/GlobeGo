@@ -62,7 +62,7 @@ export default function SearchFilter({
         >
           <option className="bg-zinc-900 text-zinc-300">All</option>
           <option className="bg-zinc-900 text-zinc-300">Africa</option>
-          <option className="bg-zinc-900 text-zinc-300">America</option>
+          <option className="bg-zinc-900 text-zinc-300">Americas</option>
           <option className="bg-zinc-900 text-zinc-300">Asia</option>
           <option className="bg-zinc-900 text-zinc-300">Europe</option>
           <option className="bg-zinc-900 text-zinc-300">Oceania</option>
